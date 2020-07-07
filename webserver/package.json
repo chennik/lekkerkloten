@@ -1,0 +1,19 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "uitesten wat een webserver is en hoe deze op te zetten",
+  "main": "index.js",
+  "scripts": {
+    "test": "webserver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chennik/lekkerkloten.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chennik/lekkerkloten/issues"
+  },
+  "homepage": "https://github.com/chennik/lekkerkloten#readme"
+}
